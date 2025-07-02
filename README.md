@@ -1,4 +1,4 @@
-## Colecciones creaadas en Firestore Database
+## Colecciones creadas en Firestore Database
 
 ![Captura de pantalla 2025-07-01 a la(s) 11 01 41 p  m](https://github.com/user-attachments/assets/5de5c3a6-ce20-469a-bb00-dd948fb78a19)
 
